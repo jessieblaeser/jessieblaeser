@@ -9,7 +9,8 @@ intro_stuff = {
     'data_collection': ['scraping', 'selenium', 'beautiful_soup', 'api_integration', 'html'],
     'data_vis': ['geojson', 'qgis', 'matplotlib', 'datawrapper', 'mapbox'],
     'multimedia': ['audio_production', 'video_production'],
-    'interests': ['running', 'chocolate', 'broadway', 'georgia_sports']
+    'interests': ['running', 'chocolate', 'broadway', 'georgia_sports'],
+    'nicknames': ['blaze', 'blaeser', 'jblaze']
 ```
 - 🔭 Currently working on: a GoodReads scraper. 
 - 💬 Ask me about: my latest baking project. 
