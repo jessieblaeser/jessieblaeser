@@ -17,7 +17,7 @@ intro_stuff = {
 - 📚 Currently reading: One Last Stop by Casey McQuiston
 
 ## Latest Published Pieces
---> [Q&A: A Food Delivery Worker Organized to Protect Fellow Workers, Columbia News Service](https://columbianewsservice.com/2021/10/27/qa-a-food-delivery-worker-organized-to-protect-fellow-workers/)
+--> [New York’s once-booming oil industry and the risky wells it left behind, City & State Magazine](https://www.cityandstateny.com/politics/2022/05/new-yorks-once-booming-oil-industry-and-risky-wells-it-left-behind/366655/)
 
 <!--
 **jessieblaeser/jessieblaeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
