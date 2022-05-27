@@ -14,7 +14,7 @@ intro_stuff = {
 ```
 - 🔭 Currently working on: a GoodReads scraper. 
 - 💬 Ask me about: my latest baking project. 
-- 📚 Currently reading: One Last Stop by Casey McQuiston
+- 📚 Currently reading: They Said They Wanted Revolution by Neda Toloui-Semnani
 
 ## Latest Published Pieces
 --> [New York’s once-booming oil industry and the risky wells it left behind, City & State Magazine](https://www.cityandstateny.com/politics/2022/05/new-yorks-once-booming-oil-industry-and-risky-wells-it-left-behind/366655/)
